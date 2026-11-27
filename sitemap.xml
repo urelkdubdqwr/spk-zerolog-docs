@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/introduction.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/quickstart.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/context-and-hooks.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/outputs-and-sinks.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/package-root.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-cmd-prettylog.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-diode.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-diode-internal-diodes.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-hlog.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-hlog-internal-mutil.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-internal.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-internal-cbor.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-internal-cbor-examples.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-internal-json.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-journald.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-log.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go/pkg-pkgerrors.html</loc></url>
+  <url><loc>https://zerolog-docs.urelkdubdqwr.xyz/go.html</loc></url>
+</urlset>
